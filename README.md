@@ -3,6 +3,8 @@
 # Power BI Dashboard Project: Global Superstore Analysis
 This repository contains the Power BI Dashboard project that I created using the Global Superstore dataset. The dashboard provides in-depth analysis and visualizations to gain insights into various aspects of the business.
 
+![BI project](https://github.com/data-enthusiast-shubhs/Power-BI-Projects/assets/115934788/3963f423-4e7d-4017-9002-cdf1af682a46)
+
 ## Project Overview
 The goal of this project is to leverage Power BI's powerful features and capabilities to analyze and visualize the Global Superstore dataset. The dataset consists of sales data from a global retail company, including information about customers, products, orders, and regions.
 
